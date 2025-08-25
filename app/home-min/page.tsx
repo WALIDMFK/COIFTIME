@@ -14,7 +14,7 @@ export default function HomeMin() {
         )}
       </header>
 
-      <button className="w-full h-0 px-3 py-2 rounded-lg bg-searchBg text-search text-right">
+      <button className="w-full h-11 px-3 py-2 rounded-lg bg-searchBg text-search text-right">
         🔍 ابحث عن صالون أو حلاق أو مدينة…
       </button>
 
