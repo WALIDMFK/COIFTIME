@@ -1,2 +1,2 @@
 # coiftime
-Codebase for Job&amp;Rent MVP platform
+Codebase for coiftime MVP platform
