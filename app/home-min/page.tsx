@@ -19,7 +19,7 @@ export default function HomeMin() {
       </button>
 
       {!isSubscriber && (
-        <div className="w-full px-0 py-0 rounded-lg bg-bannerBg text-bannerText text-right">
+        <div className="w-full px-0 py-11 rounded-lg bg-bannerBg text-bannerText text-right">
           ✨ اشترك الآن بـ 3.89€
         </div>
       )}
